@@ -49,6 +49,7 @@ The purpose of building this portfolio website is:
 ---
 
 # 👤 Author
-- Name: Your Name
+- Name: Atul Paul
 - University: Daffodil International University
-- Course/Project: Personal Portfolio Project
+- Department: Computing & and Information System
+- Project: My Personal Portfolio Project
